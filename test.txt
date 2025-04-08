@@ -7,3 +7,4 @@ vscode test2
 =======
 Remote更新
 >>>>>>> 9f0d8545cba2429c451f618ae17e8dee40f6c5a9
+バグを修正しました。
